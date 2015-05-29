@@ -1,0 +1,7 @@
+*~
+ve
+*.pyc
+.coverage
+reports
+build
+dist
